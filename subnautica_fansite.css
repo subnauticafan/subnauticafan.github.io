@@ -45,7 +45,7 @@ p {
 
 #bovenbalk {
   background-color: #0C1D31;
-  background-image: url(https://vignette.wikia.nocookie.net/subnautica/images/0/0e/Community-header-background/revision/latest/zoom-crop/width/471/height/115?cb=20170929200235);
+  background-image: url("https://vignette.wikia.nocookie.net/subnautica/images/0/0e/Community-header-background/revision/latest/zoom-crop/width/471/height/115?cb=20170929200235");
   background-repeat: no-repeat;
   background-position: right;
   background-blend-mode: luminosity;
@@ -57,7 +57,7 @@ p {
 
 #ookbovenbalk {
   background-color: #1E344C;
-  background-image: url(https://thumbs.dreamstime.com/t/underwater-coral-reef-landscape-super-wide-banner-background-deep-blue-ocean-colorful-fish-marine-life-86150385.jpg);
+  background-image: url("https://thumbs.dreamstime.com/t/underwater-coral-reef-landscape-super-wide-banner-background-deep-blue-ocean-colorful-fish-marine-life-86150385.jpg");
   background-size: contain;
   grid-area: head2;
   height: 80px;
@@ -86,7 +86,7 @@ p {
 
 #centrum {
   grid-area: centre;
-  background-image: url(https://vignette.wikia.nocookie.net/subnautica/images/f/fa/TwistyBridges01.jpg/revision/latest?cb=20150407151947);
+  background-image: url("https://vignette.wikia.nocookie.net/subnautica/images/f/fa/TwistyBridges01.jpg/revision/latest?cb=20150407151947");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
