@@ -185,6 +185,8 @@ a:hover, a:active {
 
 table {
   border-collapse: collapse;
+  text-allignment: center;
+  left-padding: 50px;
 }
 
 td, th {
