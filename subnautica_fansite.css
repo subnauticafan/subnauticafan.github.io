@@ -3,6 +3,10 @@
   padding: 0px;
 }
 
+body {
+ font-family: 'Orbitron';
+}
+
 h1 {
   border: 0.0001px solid #0C1D31;
   padding-left: 40px;
